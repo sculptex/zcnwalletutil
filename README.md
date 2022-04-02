@@ -22,10 +22,10 @@ Create New Wallet and output as JSON
 Restore Wallet using mnemonic phrase and output as list
 - Example Output:-
 ```
-- client_id:  2047b5703d9f372555d282bee5f7cd2f4ac27614d5a719c8271abcc2a9006617
-- mnemonic:  congress solar expect duck leopard march agent tray gym price zone pull shop melt speed fog fly alley annual throw vast meadow address wet
-- public_key:  5fecead94488990c2aa9ece3d84aef9afbe22e14cb9113135b63843033503818fb96380c2a3d1dba9ad9b76d914a401746dadee993c6c35b1e76b2dff9b94a0a
-- private_key:  395d885705b549041e110696dbc5749d90c7062d34030ab39dd62bd44d183f0b
+client_id:  2047b5703d9f372555d282bee5f7cd2f4ac27614d5a719c8271abcc2a9006617
+mnemonic:  congress solar expect duck leopard march agent tray gym price zone pull shop melt speed fog fly alley annual throw vast meadow address wet
+public_key:  5fecead94488990c2aa9ece3d84aef9afbe22e14cb9113135b63843033503818fb96380c2a3d1dba9ad9b76d914a401746dadee993c6c35b1e76b2dff9b94a0a
+private_key:  395d885705b549041e110696dbc5749d90c7062d34030ab39dd62bd44d183f0b
 ```
 
 ## `./zcnwalletutil --mnemonic "xxxxx" --json`
